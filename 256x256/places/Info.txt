@@ -1,0 +1,19 @@
+Oxyfolders is just a little extra to complement the Oxygen Icon Theme, giving more personalization to the folders in your desktop.
+
+This pack contains PNG 256x256 and looks nice from 48x48 to 256x256 (less than 32x32 don't), but you can find some minor graphic errors.
+
+All artwork here is original from the Oxygen Icon Theme*, developed by The Oxygen Team and licensed over LGPL, and this pack is just a mixture of that work under the same license. You can found the Oxygen Homepage here:
+
+http://www.oxygen-icons.org/
+
+Oxyfolders 0.2 is made from oxygen-icons-4.3.98 (KDE SC 4.4 RC3) and you can found here:
+
+http://kde.org/info/4.3.98.php
+
+*Icons not belonging to Oxygen Icon Theme are extracted from places like Wikimedia Commons and used as LGPL. You can found here:
+
+http://commons.wikimedia.org/wiki/Main_Page
+
+And for whatever about Oxyfolders you can contact me at KDE-Look.org:
+
+http://www.kde-look.org/content/show.php/Oxyfolders?content=74731
