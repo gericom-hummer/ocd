@@ -1,6 +1,6 @@
 # ocd
 
-https://github.com/gericom-hummer/ocd/blob/master/Screenshot_20160312_212408.png?raw=true
+https://github.com/gericom-hummer/ocd/blob/master/Screenshot_20160312_212408.png
 
 Oxygen Crystal Diamond - ocd ... or KDE4 Oxygen v4.6.2, Crystal Diamond and Crystal Project Icons ported for Plasma5. 
 
