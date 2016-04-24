@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1"
+   x="0.00000000"
+   y="0.00000000"
+   width="186.667mm"
+   height="140mm"
+   id="za"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="za4to3.svg">
+  <metadata
+     id="metadata429384">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs429382" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview429380" />
+  <g
+     id="all"
+     transform="matrix(8.171739e-2,0.000000,0.000000,9.186354e-2,0.000000,-1.678467e-4)">
+    <rect
+       width="8100.00049"
+       height="5400.00000"
+       x="0.00000000"
+       y="-0.00016900"
+       style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt;"
+       id="whitebkg" />
+    <path
+       d="M 0 -4.9738e-14 L 973.499 -4.9738e-14 L 4213.6 2160 L 8100 2160 L 8100 3240 L 4213.59 3240 L 973.499 5400 L 0 5400 L 0 4751 L 3076.51 2700 L 0 648.999 L 0 -4.9738e-14 z "
+       style="font-size:12;fill:#009933;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="green" />
+    <path
+       d="M 0 1080 L 2430 2700 L 0 4320 L 0 1080 z "
+       style="font-size:12;fill-rule:evenodd;stroke-width:1pt;"
+       id="black" />
+    <path
+       d="M 0 648.864 L 3076.36 2700 L 0 4750.95 L 0 4320 L 2430 2700 L 0 1080 L 0 648.864 z "
+       style="font-size:12;fill:#ffcc00;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="gold" />
+    <path
+       d="M 1622.5 -4.9738e-14 L 8100 -4.9738e-14 L 8100 1800 L 4322.43 1800 L 1622.5 -4.9738e-14 z "
+       style="font-size:12;fill:#ff0000;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="red" />
+    <path
+       d="M 8100 3600 L 4322.5 3600 L 1622.5 5400 L 8100 5400 L 8100 3600 z "
+       style="font-size:12;fill:#0000cc;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="blue" />
+  </g>
+</svg>

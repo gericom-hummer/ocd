@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<!-- /Creative Commons Public Domain -->
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:title>SVG graphic of Madagascan flag</dc:title>
+   <dc:rights><Agent>
+      <dc:title>Russell Cloran</dc:title>
+   </Agent></dc:rights>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+
+</rdf:RDF>
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1"
+   x="0.00000000"
+   y="0.00000000"
+   width="744.094482"
+   height="496.062988"
+   id="svg548"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="madagascar.svg">
+  <metadata
+     id="metadata449287">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview449285" />
+  <defs
+     id="defs550" />
+  <rect
+     width="496.062958"
+     height="248.031525"
+     x="248.031494"
+     y="-0.00002300"
+     style="font-size:12;fill:#ff3319;fill-rule:evenodd;stroke-width:1pt;"
+     id="rect551" />
+  <rect
+     width="496.062958"
+     height="248.031525"
+     x="248.031494"
+     y="248.031509"
+     style="font-size:12;fill:#00cc28;fill-rule:evenodd;stroke-width:1pt;"
+     id="rect552" />
+  <rect
+     width="248.031494"
+     height="496.063019"
+     x="0.00000000"
+     y="-0.00003800"
+     style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt;"
+     id="rect553" />
+</svg>

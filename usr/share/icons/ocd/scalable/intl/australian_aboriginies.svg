@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<!-- /Creative Commons Public Domain -->
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:title>SVG graphic of Australian Aboriginal Flag</dc:title>
+   <dc:rights><Agent>
+      <dc:title>Brett Roper</dc:title>
+   </Agent></dc:rights>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+
+</rdf:RDF>
+
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="fill:#28ff09; fill-opacity:14.1176%; stroke:none; "
+   width="210mm"
+   height="140mm"
+   id="canada"
+   sodipodi:docname="australian_aboriginies.svg"
+   sodipodi:version="0.31.1win"
+   version="1.1"
+   inkscape:version="0.48.0 r9654">
+  <metadata
+     id="metadata429392">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     gridtolerance="10px"
+     guidetolerance="5.000000"
+     guidecolor="#0000ff"
+     guideopacity="0.494118"
+     guidehicolor="#ff0000"
+     guidehiopacity="0.494118"
+     showgrid="true"
+     snaptogrid="true">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0.000000"
+       spacingx="52.5mm"
+       spacingy="17.5mm"
+       color="#000aff"
+       empcolor="#0000ff"
+       opacity="1.000000"
+       empopacity="0.4"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <rect
+     style="font-size:12;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt;"
+     id="rect561"
+     width="744.094482"
+     height="248.031509"
+     x="0.000000"
+     y="-0.000031" />
+  <rect
+     style="font-size:12;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt;"
+     id="rect562"
+     width="744.094482"
+     height="248.031494"
+     x="0.00000000"
+     y="248.031494" />
+  <path
+     sodipodi:type="arc"
+     style="font-size:12;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt;"
+     id="path569"
+     d="M 490.880249 269.502899 A 123.275360 126.607124 0 1 0 244.329529,269.502899 A 123.275 126.607 0 1 0 490.88 269.503 L 367.604889 269.502899 z"
+     sodipodi:cx="367.604889"
+     sodipodi:cy="269.502899"
+     sodipodi:rx="123.275360"
+     sodipodi:ry="126.607124"
+     transform="matrix(1.031560,0.000000,0.000000,1.029929,-6.920030,-31.37125)" />
+</svg>

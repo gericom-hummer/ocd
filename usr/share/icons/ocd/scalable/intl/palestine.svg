@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1"
+   x="0.00000000"
+   y="0.00000000"
+   width="987.000000"
+   height="493.500000"
+   id="svg548"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="palestine.svg">
+  <metadata
+     id="metadata429467">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview429465" />
+  <defs
+     id="defs550" />
+  <g
+     transform="scale(23.50000,23.50000)"
+     style="font-size:12;"
+     id="g558">
+    <rect
+       width="42.0000000"
+       height="7.00000000"
+       x="0.00000000"
+       y="0.00000000"
+       style="fill-rule:evenodd;stroke-width:1pt;"
+       id="rect551" />
+    <rect
+       width="42.0000000"
+       height="7.00000000"
+       x="0.00000000"
+       y="7.00000000"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1pt;"
+       id="rect552" />
+    <rect
+       width="42.0000000"
+       height="7.00000000"
+       x="0.00000000"
+       y="14.0000000"
+       style="fill:#009900;fill-rule:evenodd;stroke-width:1pt;"
+       id="rect553" />
+    <path
+       d="M 0 21 L 21 10.5 L 0 0 L 0 21 z "
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:1pt;"
+       id="path554" />
+  </g>
+</svg>

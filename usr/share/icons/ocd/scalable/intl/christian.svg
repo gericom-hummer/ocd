@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="140mm"
+   viewBox="0 0 210 140"
+   version="1.1"
+   id="svg429394"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="christian.svg">
+  <metadata
+     id="metadata429408">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs429406" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview429404" />
+  <desc
+     id="desc429396">The Christian flag, produced by Jeff Smith</desc>
+  <rect
+     x="0"
+     y="0"
+     width="210"
+     height="140"
+     fill="white"
+     stroke="gold"
+     id="rect429398" />
+  <rect
+     x="0"
+     y="0"
+     width="70"
+     height="70"
+     fill="navy"
+     id="rect429400" />
+  <polygon
+     fill="crimson"
+     points="17,23 29,23 29,11 41,11 41,23 53,23             53,35 41,35 41,59 29,59 29,35 17,35"
+     id="polygon429402" />
+</svg>

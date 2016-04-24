@@ -146,3 +146,200 @@ Credits go to:
 * miguel cruz [drive icons - igancuhz.blogspot.com]
 * jonas rask [maji folders icons - www.jonasraskdesign.com]
 * and others
+
+********************************************************************
+
+Welcome to the Sodipodi Flag collection
+
+This is meant to be a collection of flags which you can freely use for software,school and University papers, newspapers, books and whatever you could possibly use flags for. The flag collection is put in the public domain, check out our license files in the license directory for details about that.
+
+If you want to contribute a flag, be sure to go through the public domain dedication process found here:
+http://creativecommons.org/license/publicdomain-2
+
+Following that process you will eventually get to page where you are offered to cut and paste some code/text.
+As part of that you will see something looking like this:
+<!-- /Creative Commons Public Domain -->
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:title>SVG graphic of Puerto Rico flag</dc:title>
+   <dc:rights><Agent>
+      <dc:title>Ricardo Veguilla González</dc:title>
+   </Agent></dc:rights>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+</rdf:RDF>
+-->
+
+Please paste that into your SVG file using a text editor before sending it to us.
+
+The flags are categorized as follows:
+Nations - United Nations recognized nations
+Regions - Regions in Nations with their own flag, like US states
+Organisations - International organizations with their own flag, like UN and EU
+Historic - Flags of now gone countries or organisations
+Naval - Naval versions of national flags
+3z2 and 4x3 - Flags from other categories altered to fit certain aspect ratios
+
+The CREDITS files contains the names of all those who have contributed these flags to the public domain.
+
+Small note on duplicates
+When we get duplicates of flags we already have there are a few 'rules' we apply which decides what version will be used and who gets credited for it.
+
+1. We always use the most correct flag
+2. We always use the best drawn version if they are both correct
+3. For flags that are an improved version of earlier flag we subjectivly assign the credit based on our evalution of who deserves it most. Sometime we even list the credit as shared.
+
+Converting filenames to ISO country codes
+This package also includes a perl script by Timur I. Bakeyev which let you convert the filenames of most of the flags to using the 'cc.svg' format for their names.
+
+********************************************************************
+
+Serbia, Serbia & Monte Negro	Nikola Pizurica
+Yugoslavia			Nikola Pizurica
+East Germany, Nepal, UN, Tibet	Tobias Jakobs			tobias.jakobs(at)web.de
+San Marino, Papa New Guinea	Tobias Jakobs			tobias.jakobs(at)web.de
+Samoa, Sudan, Sri Lanka		Tobias Jakobs			tobias.jakobs(at)web.de
+Lebanon, Kuwait, Congo, Lebanon	Tobias Jakobs			tobias.jakobs(at)web.de
+Bhutan, Uganda, Mozambique	Tobias Jakobs			tobias.jakobs(at)web.de
+Central African Republic	Tobias Jakobs			tobias.jakobs(at)web.de
+Zambia, Zimbawe, Antartica	Tobias Jakobs			tobias.jakobs(at)web.de
+North Rhine-Westphalia 		Tobias Jakobs			tobias.jakobs(at)web.de
+Norfolk Island, France		Tobias Jakobs			tobias.jakobs(at)web.de
+Hamburg, Wales, Tunisia		Tobias Jakobs			tobias.jakobs(at)web.de
+French Polynesia, French South.	Tobias Jakobs			tobias.jakobs(at)web.de
+American Samoa, Montserat	Tobias Jakobs			tobias.jakobs(at)web.de
+Pirate flags, historic navy	Tobias Jakobs			tobias.jakobs(at)web.de
+Congo Kinshasa, Lower Saxony	Tobias Jakobs			tobias.jakobs(at)web.de
+Northern Marianna, Saxony	Tobias Jakobs			tobias.jakobs(at)web.de
+South Georg. & Sth Sandwich Is. Tobias Jakobs			tobias.jakobs(at)web.de
+Schleswig Holstein, Berlin	Tobias Jakobs			tobias.jakobs(at)web.de
+US Virgin Islands, Pitcairn	Tobias Jakobs			tobias.jakobs(at)web.de
+Baden Wurtenberg		Tobias Jakobs			tobias.jakobs(at)web.de
+Turkey				Onur Yalaz			onuryalazi(at)mersin.edu.tr
+Galicia				Miguel Rodríguez		Miguel.Rodriguez(at)det.uvigo.es
+Finland	4:3			Eetu Huisman			eh(at)iki.fi
+Scotland, Cameron, Cyprus	Sigge Kotliar 			sigge(at)hystrix.se
+Georgia, USSR, Argentina	Sigge Kotliar			sigge(at)hystrix.se
+Antigua,Macedonia, Venezuela	Sigge Kotliar			sigge(at)hystrix.se
+Trinidad & Tobago, Panama	Sigge Kotliar			sigge(at)hystrix.se
+Scotland color			Duncan Innes 			duncan(at)innes.net
+German Swatstica		Christian Neumair 		chris(at)gnome-de.org
+Switzerland, Swiss Naval 	Philipp Frauenfelder		pfrauenf(at)math.ethz.ch
+Indonesia			Kuswanto			zeus(at)bajingloncat.com
+Iceland				Áki G. Karlsson			aki(at)akademia.is
+Israel				John C Meuser			meuserj(at)purdue.edu
+Spain_plain			Francisco Camenforte Torres 	fct834(at)alboran.ual.es
+Swiss 4:3			Frank Murphy 			murphyf+sodipodi(at)f-m.fm
+Uruguay				Eduardo Roldan 			trazor(at)multitel.com.uy
+Alaska, Colorado		Chris Hilker 			hilker(at)yahoo.com
+Jutland				Kenneth Rohde Christiansen 	kenneth(at)gnu.org
+South Africa			Farrel Lifson 			flifson(at)cs.uct.ac.za
+Argentina_plain			Ernesto Carrea			enc(at)netcombbs.com.ar
+Belgium				Gregory Deseck			aeon(at)pandora.be
+Denmark				Jens Bech Madsen 		jbm(at)oncable.dk
+Esperanto			Charles Voelger 		cvoelger(at)dweasel.com
+Netherland			Marc Maurer 			j.m.maurer(at)student.utwente.nl
+Denmark				Jens Bech Madsen		jbm(at)oncable.dk
+Armenia				AnI AnI 			hayastan132(at)hotmail.com
+Arizona				Thomas Reynolds 		Thomas.Reynolds(at)asu.edu
+Saint Vincet and Grenadines	Cezary Biel 			yemu(at)gazeta.pl
+Saudia Arabia, taiwan, tonga	Cezary Biel 			yemu(at)gazeta.pl
+Trinidad & Tobago, Uzbekistan	Cezary Biel 			yemu(at)gazeta.pl
+Togo, Macau, Brazil, Iran	Cezary Biel 			yemu(at)gazeta.pl
+Netherlands Antilles, Nauru	Cezary Biel			yemu(at)gazeta.pl
+Timor Leste, Niue, Tuvalu	Cezary Biel 			yemu(at)gazeta.pl
+Christmas Island, Mexico	Cezary Biel 			yemu(at)gazeta.pl
+Tokelau, Burundi, Saint Lucia	Cezary Biel 			yemu(at)gazeta.pl
+Micronesia, Solomon Island	Cezary Biel 			yemu(at)gazeta.pl
+Sao Tome and principe		Cezary Biel 			yemu(at)gazeta.pl
+Rwanda				Cezary Biel 			yemu(at)gazeta.pl
+Dominican Republic		Luis M 				lemsx1(at)hotmail.com
+Madagascar,Tanzania,Seychelles	Russell Cloran 			russell(at)rucus.net
+North Carolina, South Carolina	Steve Hall 			digitect(at)mindspring.com
+Alabama, Arkansas		Steve Hall 			digitect(at)mindspring.com
+Canada				James Leigh 			james(at)leighnet.ca
+England				Thom Sanders 			thom.sanders(at)btinternet.com
+Norway, Aaland, Faroe, NATO	Christian Schaller		christian.schaller(at)gnome.org
+Gibraltar, Palau, Honduras	Christian Schaller		christian.schaller(at)gnome.org
+Indiana, Lithuania, Cape Verde	Christian Schaller		christian.schaller(at)gnome.org
+Guyana, Guinea Bissau		Christian Schaller		christian.schaller(at)gnome.or
+Yemen				Thomas Tonino 			ttonino(at)users.sourceforge.net
+Australian Aboriginee, Mali	Brett Roper			roperb(at)iinet.net.au
+Ivory Coast, Botswana, Monaco	Brett Roper 			brett(at)pudiga.org
+Nigeria, Mauritius, Chad	Brett Roper 			brett(at)pudiga.org
+El Salvador, Sierra Leone,Peru	Brett Roper 			brett(at)pudiga.org
+Arab Emirates, Bolivia		Brett Roper 			brett(at)pudiga.org
+Australia, New Zealand, USA	Daniel McRae			djm158(at)student.canterbury.ac.nz
+United Kingdom,	Armenia		Daniel McRae			djm158(at)student.canterbury.ac.nz
+Azerbaijan, Bahamas, Belgium	Daniel McRae			djm158(at)student.canterbury.ac.nz
+Benin, Bulgaria, Estonia	Daniel McRae			djm158(at)student.canterbury.ac.nz
+Finland, Gabon, Gambia		Daniel McRae			djm158(at)student.canterbury.ac.nz
+Greece,Greenland, Guinea	Daniel McRae			djm158(at)student.canterbury.ac.nz
+Jamaica, Jordan, Romania	Daniel McRae			djm158(at)student.canterbury.ac.nz	
+Puerto Rico			Ricardo Veguilla González 	veguilla(at)hpcf.upr.edu
+Germany				Philipp Sadleder 		philipp.sadleder(at)web.de
+Latvia				Lauris Bukšis 			lauris(at)nix.lv
+Anguilla, Aruba, Albania	John C Meuser 			meuserj(at)purdue.edu
+Portugal			Diogo Mamede 			euept(at)myrealbox.com
+Palestine			Samir M. Nassar 		sp(at)steamedpenguin.com
+Bavaria				Jörgen Scheibengruber		Joergen.Scheibengruber(at)wh-hms.uni-ulm.de
+Sweden				Richard Torkar
+Croatia				Frank Zeko			frankz(at)dogstone.com
+Newfoundland			Robert Crosbie 			swingincelt(at)hotmail.com
+Iraq, Ukraine, Irland, Ireland	Lauris Kaplinski		lauris(at)kaplinski.com
+Malaysia			Lauris Kaplinski		lauris(at)kaplinski.com
+Spain with emblem, Canary Is.	Pedro A. Gracia Fajardo 	pedro(at)neuroomante.com
+Galicia, Murcia, Madrid		Pedro A. Gracia Fajardo 	pedro(at)neuroomante.com
+Haiti				Shawn J. Stewart 		shawn(at)irietek.com
+Ontario				Pat Suwalski 			pat(at)suwalski.net
+Brunei				Gustav Broberg 			broberg(at)kth.se
+Qatar				Craig Kacinko 			ckacinko(at)hotmail.com
+Manitoba,Nunavut, British Col.	James Leigh 			james(at)leighnet.ca
+ohio				Rob Davenport 			rgd(at)travellercentral.com
+Syria, Liberia, Suriname	Craig Kacinko 			ckacinko(at)hotmail.com
+Somalia, Djibouti		Craig Kacinko 			ckacinko(at)hotmail.com
+Maryland, Tennessee		Michael Wheeler 		mwheeler(at)ameritech.net
+California			Jon A. Cruz 			joncruz(at)speakeasy.net
+Christian,New Mexico		Jeff Smith 			whydoubt(at)yahoo.com
+Senegal				Adib				taraben.a(at)wige-data.de
+Slovenia, Emirates_32 		Matthew Gatto 			poobar(at)nycap.rr.com
+Tajikistan, Guatemala		Matthew Gatto 			poobar(at)nycap.rr.com
+Chile				Mario Fuentes 			mario(at)gnome.cl
+Kazakhstan, Cambodia, Vanuatu	Caleb Moore 			calebmm(at)tpg.com.au
+Fiji, Lichtenstein, Moldova	Caleb Moore 			calebmm(at)tpg.com.au
+New South Wales,Turkmenistan	Caleb Moore 			calebmm(at)tpg.com.au
+Belarus, Malta, Dominica	Caleb Moore 			calebmm(at)tpg.com.au
+Oman,Belize, Swaziland		Caleb Moore 			calebmm(at)tpg.com.au
+Paraguay, Myanmar, Nicaragua	Caleb Moore 			calebmm(at)tpg.com.au
+Costa Rica, Eq. Guinea		Caleb Moore 			calebmm(at)tpg.com.au
+Ecuador, Andorra		Caleb Moore 			calebmm(at)tpg.com.au
+Maori, Vatican			Caleb Moore 			calebmm(at)tpg.com.au
+British Indian Ocean Territory  Caleb Moore			calebmm(at)tpg.com.au
+Australian Capitial Territory	Caleb Moore			calebmm(at)tpg.com.au
+Australian Northern Territory	Caleb Moore			calebmm(at)tpg.com.au
+Queensland, Victoria		Caleb Moore			calebmm(at)tpg.com.au
+Western Australia		Caleb Moore			calebmm(at)tpg.com.au
+Cook Islands, El Salvador	Caleb Moore			calebmm(at)tpg.com.au
+Historical South Africa		Caleb Moore			calebmm(at)tpg.com.au
+Tasmania, South Australia	Caleb Moore			calebmm(at)tpg.com.au
+Canada NW Terr,	New Brunswick	Caleb Moore			calebmm(at)tpg.com.au
+District of Columbia, Hawaii	Rob Adams 			readams(at)readams.net
+Piedmonte			Luigi Maselli 			metnik(at)tiscali.it
+Waloon, Brussels, Flanders	Cedric de Launois 		delaunois(at)info.ucl.ac.be
+Comoros, Eritrea, Kyrgyzstan	Andrew Duhan			andrew.b.duhan(at)ttu.edu
+Guam, Marshal Islands		Andrew Duhan			andrew.b.duhan(at)ttu.edu
+Western Sahara, Afghanistan	Andrew Duhan			andrew.b.duhan(at)ttu.edu
+Wallis and Futuna		Andrew Duhan			andrew.b.duhan(at)ttu.edu
+Belarus Historic		Vital Khilko			dojlid(at)mova.org
+UNO,WHO,UNICEF,UNESCO		Wilfried Huss			willihus(at)sbox.tugraz.at
+Spain Catalunya			Xavier Conde Rueda 		xaviconde(at)eresmas.com

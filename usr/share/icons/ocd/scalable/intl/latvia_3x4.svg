@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg554"
+   sodipodi:version="0.32"
+   width="200mm"
+   height="150mm"
+   sodipodi:docname="latvia_3x4.svg"
+   version="1.1"
+   inkscape:version="0.48.0 r9654">
+  <metadata
+     id="metadata429143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs556" />
+  <sodipodi:namedview
+     id="base"
+     showgrid="false"
+     snaptogrid="true">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="40mm"
+       spacingy="30mm"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <rect
+     style="font-size:12;fill:#ab231d;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+     id="rect561"
+     width="708.661398"
+     height="212.598419"
+     x="0.000000"
+     y="-0.000061" />
+  <rect
+     style="font-size:12;fill:#ab231d;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+     id="rect562"
+     width="708.661398"
+     height="212.598419"
+     x="0.000000"
+     y="318.897598" />
+  <rect
+     style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+     id="rect553"
+     width="708.661398"
+     height="106.299210"
+     x="0.000000"
+     y="212.598373" />
+</svg>

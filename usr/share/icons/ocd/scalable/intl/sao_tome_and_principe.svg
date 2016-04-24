@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1207"
+   sodipodi:version="0.33pre"
+   width="280mm"
+   height="140mm"
+   sodipodi:docname="sao_tome_and_principe.svg"
+   version="1.1"
+   inkscape:version="0.48.0 r9654">
+  <metadata
+     id="metadata451897">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1209" />
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     snaptogrid="false">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="283.642303"
+       id="guide1278" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="115.696198"
+       id="guide1279" />
+  </sodipodi:namedview>
+  <rect
+     style="font-size:12;fill:#ffff00;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+     id="rect3472"
+     width="992.126021"
+     height="488.607361"
+     x="0.000000"
+     y="-0.000046" />
+  <rect
+     style="font-size:12;fill:#009d00;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+     id="rect1276"
+     width="992.125916"
+     height="141.732331"
+     x="0.000076"
+     y="-0.000035" />
+  <rect
+     style="font-size:12;fill:#009d00;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+     id="rect3471"
+     width="992.125916"
+     height="141.732273"
+     x="0.000000"
+     y="354.330734" />
+  <path
+     style="font-size:12;fill-rule:evenodd;stroke:none;stroke-width:1.4876pt;fill:#f10600;fill-opacity:1;"
+     d="M 0.686257 -4.88149e-05 C 2.05877 -4.88149e-05 248.031 245.156 248.031 245.156 L -1.77337e-15 496.063 L 0.686257 -4.88149e-05 z "
+     id="path570"
+     sodipodi:nodetypes="cccc" />
+  <g
+     id="g1310"
+     transform="translate(0.000000,-364.9371)">
+    <polygon
+       points="591.041,433.161 533.774,391.476 476.501,433.151 498.449,365.806 441.115,324.214 511.946,324.278 533.785,256.897 555.613,324.281 626.445,324.23 569.104,365.812 591.041,433.161 "
+       style="font-size:12;fill:#000000;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="polygon136"
+       transform="matrix(0.709044,0.000000,0.000000,0.730348,367.0069,360.9774)" />
+    <polygon
+       points="591.041,433.161 533.774,391.476 476.501,433.151 498.449,365.806 441.115,324.214 511.946,324.278 533.785,256.897 555.613,324.281 626.445,324.23 569.104,365.812 591.041,433.161 "
+       style="font-size:12;fill:#000000;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="polygon1309"
+       transform="matrix(0.709044,0.000000,0.000000,0.730348,116.6428,360.9774)" />
+  </g>
+</svg>

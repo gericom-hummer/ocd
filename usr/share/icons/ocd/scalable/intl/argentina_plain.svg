@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg548"
+   sodipodi:version="0.32"
+   width="554.28pt"
+   height="371.89pt"
+   sodipodi:docname="argentina_plain.svg"
+   version="1.1"
+   inkscape:version="0.48.0 r9654">
+  <metadata
+     id="metadata438319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base" />
+  <g
+     id="g561"
+     transform="translate(-31.58711,-220.2279)">
+    <rect
+       style="font-size:12;fill:#00c4ff;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="rect552"
+       width="677.877089"
+       height="151.049730"
+       x="37.969228"
+       y="229.797326" />
+    <rect
+       style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="rect554"
+       width="677.877024"
+       height="151.049697"
+       x="37.969134"
+       y="380.231914" />
+    <rect
+       style="font-size:12;fill:#00c4ff;fill-rule:evenodd;stroke-width:1pt;fill-opacity:1;"
+       id="rect555"
+       width="677.876958"
+       height="151.049697"
+       x="37.969053"
+       y="530.665882" />
+  </g>
+</svg>
